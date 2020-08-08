@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: 0fcc1ff0d25d2f543a044d6808a28c5a
+timeCreated: 1523278670
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: GLAVA
+    100002: joint10
+    100004: joint9
+    100006: //RootNode
+    100008: OPAVCE
+    100010: OPAVCE1
+    100012: PD
+    100014: PD1
+    100016: PD2
+    100018: PD3
+    100020: PL
+    100022: PL1
+    100024: PL2
+    100026: PL3
+    100028: pSphere9
+    100030: VRAT
+    100032: ZD
+    100034: ZD1
+    100036: ZD2
+    100038: ZD3
+    100040: ZL
+    100042: ZL1
+    100044: ZL2
+    100046: ZL3
+    400000: GLAVA
+    400002: joint10
+    400004: joint9
+    400006: //RootNode
+    400008: OPAVCE
+    400010: OPAVCE1
+    400012: PD
+    400014: PD1
+    400016: PD2
+    400018: PD3
+    400020: PL
+    400022: PL1
+    400024: PL2
+    400026: PL3
+    400028: pSphere9
+    400030: VRAT
+    400032: ZD
+    400034: ZD1
+    400036: ZD2
+    400038: ZD3
+    400040: ZL
+    400042: ZL1
+    400044: ZL2
+    400046: ZL3
+    4300000: pSphere9
+    9500000: //RootNode
+    13700000: pSphere9
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ovca
+    second: {fileID: 2100000, guid: f9e3a70df18d9454b87a71641847c1e9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
